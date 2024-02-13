@@ -5,7 +5,7 @@ How To Run
 2) Click  the run button
 3) A browser window will appear with Swagger. Click “Try it out” to test the API.
    
-#Improvements / Missing
+Improvements / Missing
 1) Error trapping
 2) Logging
 3) Swagger Descriptions
