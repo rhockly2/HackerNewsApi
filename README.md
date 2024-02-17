@@ -5,16 +5,15 @@ How to Run the Application:
     Ensure all necessary dependencies and configurations are in place.
     
     Launching the Application:
+        Open the project in Visual Studio.
+        Build the solution to resolve any dependencies.
+        Click the "Run" button or press F5 to initiate the application.
     
-    Open the project in Visual Studio.
-    Build the solution to resolve any dependencies.
-    Click the "Run" button or press F5 to initiate the application.
     Testing the API:
-    
-    Once the application is running, a browser window will automatically open with Swagger UI.
-    Navigate to the Swagger UI interface.
-    Select the desired endpoint to interact with.
-    Click on "Try it out" to initiate a test request to the API.
+        Once the application is running, a browser window will automatically open with Swagger UI.
+        Navigate to the Swagger UI interface.
+        Select the desired endpoint to interact with.
+        Click on "Try it out" to initiate a test request to the API.
 
 Key Improvements and Additions:
 
