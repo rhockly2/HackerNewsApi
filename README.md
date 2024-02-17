@@ -20,23 +20,20 @@ Setup:
 Key Improvements and Additions:
 
     Interfaces:
-    
     Implement interfaces to promote modularity and abstraction.
     
     Error Trapping:
-    
     Employ robust error handling mechanisms to gracefully manage exceptions and errors.
     
     Logging:
-    
     Integrate logging functionality to record application events and errors for debugging and monitoring purposes.
     
     Swagger Descriptions:
-    
     Enhance Swagger documentation with detailed descriptions of API endpoints, parameters, and responses.
     
     Automapper:
     Utilize Automapper for streamlined object-to-object mapping, enhancing code readability and maintainability.
+    
     Validation:
     Implement input validation to ensure data integrity and security.
     
