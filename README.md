@@ -1,8 +1,6 @@
 # HackerNewsApi
 How to Run the Application:
 
-Setup:
-
     Clone the repository using Visual Studio 2013.
     Ensure all necessary dependencies and configurations are in place.
     Launching the Application:
