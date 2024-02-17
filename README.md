@@ -3,6 +3,7 @@ How to Run the Application:
 
     Clone the repository using Visual Studio 2022.
     Ensure all necessary dependencies and configurations are in place.
+    
     Launching the Application:
     
     Open the project in Visual Studio.
